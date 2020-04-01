@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LivepoolDemo</string>
+    <string name="buscar">Buscar</string>
+    <string name="error_busqueda">Introduce el termino a buscar</string>
+    <string name="no_results">No hay resultados</string>
+    <string name="no_red_error">No hay internet disponible</string>
+    <string name="busquedas_recientes">Busquedas recientes</string>
+</resources>
